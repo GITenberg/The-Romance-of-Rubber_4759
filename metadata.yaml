@@ -1,0 +1,33 @@
+_repo: The-Romance-of-Rubber_4759
+_version: 0.0.1
+creator:
+  author:
+    agent_name: United States Rubber Company
+    aliases:
+    - Company, United States Rubber
+    - U.S. Rubber Company
+    gutenberg_agent_id: '1570'
+    url: http://www.gutenberg.org/2009/agents/1570
+  editor:
+    agent_name: Martin, John
+    alias: Shepard, Morgan
+    birthdate: 1865
+    deathdate: 1947
+    gutenberg_agent_id: '1569'
+    url: http://www.gutenberg.org/2009/agents/1569
+description: ''
+gutenberg_bookshelf: Manufacturing
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4759'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rubber'
+- !lcc 'TS'
+- GITenberg
+title: The Romance of Rubber
+url: http://www.gutenberg.org/ebooks/4759
